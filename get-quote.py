@@ -10,3 +10,4 @@ def main():
 if __name__== "__main__":
   main()
 python3 get-quote.py
+git commit -m "Renamed the primary function"
